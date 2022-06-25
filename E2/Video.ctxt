@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Video
+comment1.params=artikelNr\ art\ preis\ titel\ spieldauer\ jahr
+comment1.target=Video(int,\ java.lang.String,\ double,\ java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getTitel()
+comment3.params=titel
+comment3.target=void\ setTitel(java.lang.String)
+comment4.params=
+comment4.target=int\ getSpieldauer()
+comment5.params=spieldauer
+comment5.target=void\ setSpieldauer(int)
+comment6.params=
+comment6.target=int\ getJahr()
+comment7.params=jahr
+comment7.target=void\ setJahr(int)
+numComments=8
