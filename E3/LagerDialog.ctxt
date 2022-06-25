@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=LagerDialog
+comment0.text=\r\n\ Programm\ zum\ testen\ von\ Lager\r\n\ \r\n\ @author\ Mouayad\ Haji\ Omar,\ Zubeir\ Mohamed\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=Artikel\ artikelAnlegen()
+comment1.text=\r\n\ Hier\ wird\ eine\ neues\ Artikel\ angelegt\r\n\ \r\n\ @return\ neues\ Artikel\r\n
+comment2.params=
+comment2.target=Lager\ lagerAnlegen()
+comment3.params=
+comment3.target=int\ einleseFunktion()
+comment3.text=\r\n\ Einzelne\ befehle\ werden\ hier\ angezeigt\r\n\ \r\n\ @return\ Ganzzahl\ eingabe\ des\ benutzer\r\n
+comment4.params=
+comment4.target=int\ bestandEingabe()
+comment4.text=\r\n\ Hier\ erhalten\ wird\ den\ Bestand\r\n\ \r\n\ @return\ Ganzzahl\ eingabe\ vom\ benutzer\r\n
+comment5.params=
+comment5.target=java.lang.String\ artEingabe()
+comment5.text=\r\n\ \r\n\ Hier\ wird\ die\ artikelart\ als\ eingabe\ vom\ benutzer\ \u00FCbergeben\r\n\ \r\n\ @return\ Zeile\ der\ benutzereingabe\r\n
+comment6.params=funktion
+comment6.target=void\ ausfuehrenFunktion(int)
+comment6.text=\r\n\ Hier\ wird\ abh\u00E4ngig\ vom\ benutzer\ die\ richtige\ artikel\ methode\ ausgef\u00FChrt\r\n\ \r\n\ @param\ funktion\ Befehl\ des\ benutzer\r\n
+comment7.params=
+comment7.target=void\ start()
+comment7.text=\r\n\ Hauptschleife\ des\ Testprogramms\r\n
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+comment8.text=\r\n\ Main\ methode\r\n\ \r\n\ @param\ args\r\n
+numComments=9
